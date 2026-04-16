@@ -16,6 +16,8 @@ daily/
           bridge.env.example
           k20-mm-bridge.service
           README.md
+    2026-04-16-K20-Pro-广角相机解锁尝试与-MacroDroid-定时录像/
+      README.md
 ```
 
 ## 命名规则
@@ -44,6 +46,7 @@ YYYY-MM-DD-事件名称.md
 
 - [2026-04-05 K20 Pro 安装 Gemma 4 部署记录](./daily/2026/2026-04-05-K20-Pro-Gemma4-%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95.md)
 - [2026-04-06 K20 Pro Gemma 4 部署与 OneAPI 多模态接入](./daily/2026/2026-04-06-K20-Pro-Gemma4-%E9%83%A8%E7%BD%B2%E4%B8%8E-OneAPI-%E5%A4%9A%E6%A8%A1%E6%80%81%E6%8E%A5%E5%85%A5/README.md)
+- [2026-04-16 K20 Pro 广角相机解锁尝试与 MacroDroid 定时录像](./daily/2026/2026-04-16-K20-Pro-%E5%B9%BF%E8%A7%92%E7%9B%B8%E6%9C%BA%E8%A7%A3%E9%94%81%E5%B0%9D%E8%AF%95%E4%B8%8E-MacroDroid-%E5%AE%9A%E6%97%B6%E5%BD%95%E5%83%8F/README.md)
 
 ## 说明
 
